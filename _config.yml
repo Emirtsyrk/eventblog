@@ -22,7 +22,7 @@ title: 1.Geleneksel Pandemi-Sonrası Konferansı
 email: emir.tasyurek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Pandemi sonrası normalleşme sürecini, en sağlıklı ve eğlenceli şekilde geçirmek için *bize* ulaşın.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "eventblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mrtsyrk
 github_username: Emirtsyrk
